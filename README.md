@@ -1,6 +1,6 @@
 # 🟩 CUBOVERDE
 
-Jogo desenvolvido em **Unity** com **C#**, onde o jogador controla um cubo verde em desafios de movimentação, colisão e progressão de fases.
+Jogo desenvolvido em **Construct 2**, onde o jogador controla um cubo verde em desafios de movimentação, colisão e progressão de fases.
 
 > Projeto autoral criado para praticar fundamentos de desenvolvimento de jogos: física, input, level design e estruturação de código em C#.
 
@@ -9,33 +9,40 @@ Jogo desenvolvido em **Unity** com **C#**, onde o jogador controla um cubo verde
 ## 🎮 Sobre o jogo
 
 - **Gênero:** Plataforma / Puzzle
-- **Engine:** Unity
-- **Linguagem:** C#
+- **Engine:** Construct 2
+- **Linguagem:** Construct (.capx)
 - **Plataforma:** PC (Windows)
-- **Status:** Em desenvolvimento
+- **Status:** Testes
 
 ## 🕹️ Mecânicas principais
 
 - Movimentação em 3 eixos com física aplicada
 - Sistema de colisão e detecção de obstáculos
 - Progressão por fases com dificuldade crescente
-- [adicione outras mecânicas que você implementou]
 
 ## 🛠️ Tecnologias utilizadas
 
-- Unity (versão X.X)
-- C#
+- Construct 2
 - Git / GitHub para versionamento
-- [adicione assets, plugins ou ferramentas que usou]
-
-## 📸 Screenshots
-
-[coloque aqui 2 ou 3 prints ou GIFs do jogo rodando]
-Exemplo:
-![Gameplay](caminho/para/imagem.gif)
 
 ## 🚀 Como rodar o projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Zetinhan/CUBOVERDE.git
+1. Basta baixar o rar e abrir o jogo! ele está no formato html5
+
+📚 O que aprendi com este projeto
+Estruturação de código em C# para jogos
+
+Uso de componentes do Construct (Solid, Jump-thru, Audio, Keyboard, Platform, etc)
+
+Versionamento com Git
+
+Prototipagem rápida e iteração de gameplay
+
+👤 Autor
+João Luís Rocha Pinho Teixeira
+
+GitHub: @Zetinhan
+
+LinkedIn: joao-luis-rocha-pinho-teixeira
+
+⭐ Se curtiu o projeto, deixa uma estrela no repositório!
